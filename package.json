@@ -1,0 +1,41 @@
+{
+  "name": "js-test-project-1",
+  "version": "1.0.0",
+  "main": "1-intro.js",
+  "dependencies": {
+    "acorn": "^8.14.1",
+    "acorn-walk": "^8.3.4",
+    "colorjs.io": "^0.5.2",
+    "escodegen": "^2.1.0",
+    "esprima": "^4.0.1",
+    "estraverse": "^5.3.0",
+    "esutils": "^2.0.3",
+    "gifenc": "^1.0.3",
+    "i18next": "^19.9.2",
+    "i18next-browser-languagedetector": "^4.3.1",
+    "libtess": "^1.2.2",
+    "lodash": "^4.17.21",
+    "omggif": "^1.0.10",
+    "p5": "^2.0.1",
+    "pako": "^2.1.0",
+    "pixelmatch": "^7.1.0",
+    "pngjs": "^7.0.0",
+    "source-map": "^0.6.1",
+    "zod": "^3.24.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethcochran/test-repository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sethcochran/test-repository/issues"
+  },
+  "homepage": "https://github.com/sethcochran/test-repository#readme",
+  "keywords": [],
+  "description": ""
+}
